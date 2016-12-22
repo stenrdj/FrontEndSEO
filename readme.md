@@ -1,17 +1,17 @@
 #Bonjour!
-Le projet contient que un et un seul fichier **HTML** , j'ai choisi les deux dernier exercices : Front-end et SEO.
+Le projet contient que un et un seul fichier **HTML** , j'ai choisi les deux derniers exercices : Front-end et SEO.
 ###Front-end
 ####DatePicker
-le travail principalement se tourne autour de **DatePicker** , selon l'API de cette Jquery UI interface on affiche le panel de datepicker avec la fonction datepicker() , j'ai personnaliser le code pour qu'il soit facile et utilisable plusieurs fois au formulaire :
+le travaille principalement se tourne autour de **DatePicker** , selon l'API de cette Jquery UI interface on affiche le panel de datepicker avec la fonction datepicker() , j'ai personnalisé le code pour qu'il soit facile et utilisable plusieurs fois au formulaire :
 ```HTML
  function getdate(id){
     $( "#"+id ).datePicker();
   }
 ```
-On appelle cette fonction dans chaque élément sur le **DOM** en passant comme paramètre le id de celle-ci . ce bout de code doit se place obligatoirement après l’appelle de le fichier JS de DatePicker.
+On appelle cette fonction dans chaque élément sur le **DOM** en passant comme paramètre l'id de celle-ci . ce bout de code doit se place obligatoirement après l’appeler du fichier JS de DatePicker.
 ####Design Uniforme 
-Appliquer un style uniforme pour tout les champs de formulaire et très primordiale en terme de UX/UI . 
-alors j'ai ajouter le mémé style que de celle de les champs *input* pour les choix *select* .
+Appliquer un style uniforme pour tous les champs de formulaire et très primordiale en terme de UX/UI . 
+alors j'ai ajouté le meme style que de celle de les champs *input* pour les choix *select* .
 ```CSS
  .send_mail select {
 	border: 1px solid #e0e1e5;
@@ -26,7 +26,7 @@ alors j'ai ajouter le mémé style que de celle de les champs *input* pour les c
 	text-transform: uppercase;
 		}
 ```
-également j'ai ajouter le *place holder * pour les champs de date pour informer le visiteur de contenu souhaité entre dans ce champ.
+également j'ai ajouter le *place holder* pour les champs de date pour informer le visiteur de contenu souhaité entre dans ce champ.
 ###SEO
 Le référencement naturel est très important, ce que vous demandez c'est le **On-page** , généralement ce qu’il faut faire c'est utiliser au moine une seul *h1* tag et *h2* .... *p*, Dans On-Page SEO le plus important c'est le contenu .
 > content is the king.
