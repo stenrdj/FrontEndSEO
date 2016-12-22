@@ -1,5 +1,5 @@
 #Bonjour!
-Le projet contient que un et un seul fichier **HTML** , j'ai choisi les deux derniers exercices : Front-end et SEO.
+Le projet contient que deux fichier, un fichier **HTML** et l'autre **js** pour nodejs, j'ai choisi les deux derniers exercices : Front-end et SEO.
 ###Front-end
 ####DatePicker
 le travaille principalement se tourne autour de **DatePicker** , selon l'API de cette Jquery UI interface on affiche le panel de datepicker avec la fonction datepicker() , j'ai personnalisé le code pour qu'il soit facile et utilisable plusieurs fois au formulaire :
