@@ -26,13 +26,16 @@ alors j'ai ajouté le meme style que de celle de les champs *input* pour les cho
 	text-transform: uppercase;
 		}
 ```
-également j'ai ajouter le *place holder* pour les champs de date pour informer le visiteur de contenu souhaité entre dans ce champ.
+également j'ai ajouté le *place holder* pour les champs de date á fin d'informer le visiteur du contenu souhaité saisir dans ces champs.
 ###SEO
-Le référencement naturel est très important, ce que vous demandez c'est le **On-page** , généralement ce qu’il faut faire c'est utiliser au moine une seul *h1* tag et *h2* .... *p*, Dans On-Page SEO le plus important c'est le contenu .
+Le référencement naturel est très important, ce que vous demandez c'est le **On-page** , généralement ce qu’il faut faire c'est utiliser au moin un seul *h1* tag et *h2* .... *p*, lorsque'on applique On-Page SEO , le plus important c'est le contenu .
+
 > content is the king.
 
-D'autre part il est préférable que le mot clés de la page soit présent dans les tags , *title* , *h1*, *h2* et plusieurs fois dans *p* .
+D'autre part il est préférable que le mot clé de la page soit présent dans les tags , *title* , *h1*, *h2* et plusieurs fois dans *p* .
 
-L'utilisation  de  l'attribut **Alt** dans les tags *img* est également important pour une bonne indexation des images ainsi les *meta tags* , *keywords*, *description* .
+L'utilisation  de  l'attribut **Alt** dans les tags *img* est également important pour une bonne indexation des images , et sans oublier les *meta tags* , *keywords*, *description* .
 
 Finalement le concept de **Mobile First ** est très favoriser par Google .
+
+Merci!
